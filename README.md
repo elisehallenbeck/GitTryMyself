@@ -7,7 +7,10 @@ Make edits on my local machine in VS code to README
 Create new file in VScode 
 save those edits & new file and push? them to github
 
-##EDIT TEST
+## EDIT TEST
 Here I am adding this section to the README file.
 These changes are not being tracked in git. Not sure why.
 I changed the setting in VScode to autosave and now it is working.
+
+## Branch testing
+This section should only be visible on the first-/feature branch. Should not be visible on the main branch
