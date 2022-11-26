@@ -14,3 +14,4 @@ I changed the setting in VScode to autosave and now it is working.
 
 ## Branch testing
 This section should only be visible on the first-/feature branch. Should not be visible on the main branch
+But, now this is merged into main branch
